@@ -1,4 +1,4 @@
-# Project202_LLIZA
+# LLINZA_project
 Edgerunner clicker
 
 Игра представляющая себя Кликер на мобильный смартфон
